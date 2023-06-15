@@ -1,0 +1,18 @@
+C:\Users\Admin\Desktop\AplicatieDemoPIU-main\EvidentaStudenti\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\Admin\Desktop\AplicatieDemoPIU-main\EvidentaStudenti\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\Admin\Desktop\AplicatieDemoPIU-main\EvidentaStudenti\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AplicatieDemoPIU-main\EvidentaStudenti\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AplicatieDemoPIU-main\EvidentaStudenti\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\Admin\Desktop\AplicatieDemoPIU-main\EvidentaStudenti\LibrarieModele\obj\Debug\LibrarieModele.pdb
+C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\LibrarieModele\obj\Debug\LibrarieModele.pdb
+C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\LibrarieModele\bin\Debug\LibrarieModele.pdb
+D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\LibrarieModele\obj\Debug\LibrarieModele.dll
+D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\LibrarieModele\obj\Debug\LibrarieModele.pdb
+D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\LibrarieModele\bin\Debug\LibrarieModele.dll
+D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\LibrarieModele\bin\Debug\LibrarieModele.pdb

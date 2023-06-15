@@ -1,0 +1,27 @@
+C:\Users\Admin\Desktop\AplicatieDemoPIU-main\EvidentaStudenti\NivelStocareData\bin\Debug\NivelStocareData.dll
+C:\Users\Admin\Desktop\AplicatieDemoPIU-main\EvidentaStudenti\NivelStocareData\bin\Debug\NivelStocareData.pdb
+C:\Users\Admin\Desktop\AplicatieDemoPIU-main\EvidentaStudenti\NivelStocareData\bin\Debug\LibrarieModele.dll
+C:\Users\Admin\Desktop\AplicatieDemoPIU-main\EvidentaStudenti\NivelStocareData\bin\Debug\LibrarieModele.pdb
+C:\Users\Admin\Desktop\AplicatieDemoPIU-main\EvidentaStudenti\NivelStocareData\obj\Debug\NivelStocareData.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AplicatieDemoPIU-main\EvidentaStudenti\NivelStocareData\obj\Debug\NivelStocareData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AplicatieDemoPIU-main\EvidentaStudenti\NivelStocareData\obj\Debug\NivelStocareData.csproj.CopyComplete
+C:\Users\Admin\Desktop\AplicatieDemoPIU-main\EvidentaStudenti\NivelStocareData\obj\Debug\NivelStocareData.dll
+C:\Users\Admin\Desktop\AplicatieDemoPIU-main\EvidentaStudenti\NivelStocareData\obj\Debug\NivelStocareData.pdb
+C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\bin\Debug\NivelStocareData.dll
+C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\bin\Debug\NivelStocareData.pdb
+C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\bin\Debug\LibrarieModele.dll
+C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\bin\Debug\LibrarieModele.pdb
+C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.csproj.CopyComplete
+C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.dll
+C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.pdb
+D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\bin\Debug\NivelStocareData.dll
+D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\bin\Debug\NivelStocareData.pdb
+D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\bin\Debug\LibrarieModele.dll
+D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\bin\Debug\LibrarieModele.pdb
+D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.csproj.AssemblyReference.cache
+D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.csproj.CoreCompileInputs.cache
+D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.csproj.CopyComplete
+D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.dll
+D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.pdb

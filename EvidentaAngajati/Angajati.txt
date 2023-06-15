@@ -1,0 +1,9 @@
+1;nume;prenume;Backend;
+2;nume 2;prenume 2;QualityAssurance;
+3;nume 3;prenume 3;Frontend;
+4;fghf;fghf;Frontend;
+5;nume555;prenume555;QualityAssurance;
+6;nume;prenume;Backend;
+7;asdasd;fasf;Frontend;
+8;dasda;asdasd;Backend;
+9;asda;asdas;None;
