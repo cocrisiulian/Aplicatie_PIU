@@ -1,5 +1,5 @@
 # Aplicatie_PIU
-##Aplicatia de evidenta a Angajatilor unei firme de IT
+Aplicatia de evidenta a Angajatilor unei firme de IT
 
 Aceasta este o aplicatie simpla in care administratorul firmei isi poate inregistra angajati.
 
