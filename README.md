@@ -16,11 +16,11 @@ Aplicatia **Windows Form** utilizatorul/administratorul ce foloseste aplicatia, 
 
 Pentru aplicatia de tip **Terminal** utilizatorul are o serie de optiuni:
 
-I. Introducere informatii angajat
-A. Afisarea ultimului angajat introdus
-F. Afisare angajati din fisier
-S. Salvare angajat in fisier
-X. Inchidere program
+1. I. Introducere informatii angajat
+2. A. Afisarea ultimului angajat introdus
+3. F. Afisare angajati din fisier
+4. S. Salvare angajat in fisier
+5. X. Inchidere program
 
 Pentru implementarile acestora, am folosit 
 1. EvidentaAngajati_Consola
