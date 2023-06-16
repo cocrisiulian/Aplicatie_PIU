@@ -16,12 +16,3 @@ C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj
 C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.csproj.CopyComplete
 C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.dll
 C:\Users\Admin\Desktop\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.pdb
-D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\bin\Debug\NivelStocareData.dll
-D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\bin\Debug\NivelStocareData.pdb
-D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\bin\Debug\LibrarieModele.dll
-D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\bin\Debug\LibrarieModele.pdb
-D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.csproj.AssemblyReference.cache
-D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.csproj.CoreCompileInputs.cache
-D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.csproj.CopyComplete
-D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.dll
-D:\Facultate an_II\AplicatieProiectPIU\EvidentaAngajati\NivelStocareData\obj\Debug\NivelStocareData.pdb

@@ -7,3 +7,8 @@
 7;asdasd;fasf;Frontend;
 8;dasda;asdasd;Backend;
 9;asda;asdas;None;
+10;;;Backend;
+11;asd;asd;None;
+12;nume123;nume123;Backend;
+13;asd;asd;None;
+14;;;None;
